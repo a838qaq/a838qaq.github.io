@@ -104,8 +104,8 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-# index_img: "https://s2.loli.net/2023/03/16/T2KsYx5CDMlcEhf.jpg"
-index_img: /img/IMG_1386_3.jpg
+index_img: "https://s2.loli.net/2023/03/16/T2KsYx5CDMlcEhf.jpg"
+# index_img: /img/IMG_1386_3.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
