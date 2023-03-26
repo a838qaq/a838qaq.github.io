@@ -93,12 +93,12 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://s2.loli.net/2023/03/16/SBWGVk2vlnoKqbD.png
+favicon: /img/Head.png
 
 
 # Avatar (頭像)
 avatar:
-  img: https://s2.loli.net/2023/03/16/SBWGVk2vlnoKqbD.png
+  img: /img/Head.png
   effect: false
 
 # Disable all banner image
