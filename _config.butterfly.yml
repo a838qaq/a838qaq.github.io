@@ -687,7 +687,7 @@ aside:
       link: https://github.com/a838qaq
   card_announcement:
     enable: true
-    content: 你好！这里是838！你也可以叫我祺宝！目前是新手摄影师/弱鸡程序员/萌新二次元（
+    content: 你好！这里是838！你也可以叫我祺宝！目前是新手摄影师/弱鸡程序员/社恐二次元（
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
