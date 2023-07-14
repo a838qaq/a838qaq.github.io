@@ -3,6 +3,7 @@ title: World Dai Star
 date: 2023-06-30 16:14:37
 tags:
 - 二次元
+- 番剧
 cover:
 ---
 # 世界带明星观后感
